@@ -5,3 +5,5 @@
 Thank you for attending the webinar! This repository contains any code and configuration files created during the webinar as well as the slide deck.
 
 If you are interested in registering for the Introduction to Docker class being held Dec 1-3, 2020, please [register here](https://www.themisinc.com/CourseSched?id=DO1044).
+
+If you would like to connect with Eric Greene, check him out on [LinkedIn](https://linkedin.com/in/erict4dio).
